@@ -12,7 +12,7 @@ Exemple item a ajouter dans ox_inventory/data/item
 	},
 },
 
-['dg_whiskey'] = {
+['whiskey'] = {
 		label = 'whiskey',
 		weight = 3,
 		stack = true,
