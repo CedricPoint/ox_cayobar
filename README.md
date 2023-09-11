@@ -18,8 +18,8 @@ You're ready, after reboot you can simple go to Cayo Parico Island and you be ab
 
 All is in client/main.lua
 
-Boss Configuration : 
+Boss Configuration : Ligne 65
 
-Bar config : 
+Bar config : Ligne 91 / Ligne 111
 
 I hope you enjoy the project ! 
